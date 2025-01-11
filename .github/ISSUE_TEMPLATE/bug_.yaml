@@ -1,0 +1,16 @@
+name:bug_report 
+description:Report a bug you have found 
+title:"[Bug]:
+labels="bug"
+body:
+- type: markdown
+attributes: 
+  values: |
+   Thanks for taking the time to fill out this big report 
+- type: textarea
+attributes :
+label: What happened?
+description: Also tell us, what did you expect to happen?
+placeholder: Tell us what you see !
+validations: 
+ required: true
