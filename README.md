@@ -8,9 +8,9 @@ Hello! From the codespace.
 1. third
 
 - first
-  -nested
--second
-  -one
-   -two
+  - nested
+- second
+  - one
+   - two
 - third
 
