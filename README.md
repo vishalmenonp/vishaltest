@@ -29,9 +29,9 @@ Here is a<br    />line break
 
 This is `code`
 
-- [] First task
-- [] Second task
--[x] Third task
+- [ ] First task
+- [ ] Second task
+- [x] Third task
 
 
 
