@@ -21,6 +21,9 @@ First|Second
 3|4
 
 
+Here is a<br    />line break
+
+
 
 > This is quoted text
 
