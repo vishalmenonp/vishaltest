@@ -27,6 +27,8 @@ Here is a<br    />line break
 
 > This is quoted text
 
+This is ‘code’
+
 
 
 
